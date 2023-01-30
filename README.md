@@ -6,6 +6,9 @@
 
 Desafio pessoal com Spring Boot é uma aplicação backend, o intuito do desafio era, consumir uma API pública https://viacep.com.br/.
 
+# Exemplo
+![Exemplo 1](https://raw.githubusercontent.com/salgeee/desafio-viacep/main/Screenshot_1.png) 
+
 
 # Tecnologias utilizadas
 ## Back end
