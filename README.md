@@ -15,6 +15,7 @@ Desafio pessoal com Spring Boot é uma aplicação backend, o intuito do desafio
 - Java
 - Spring Boot
 - Maven
+- Postman
 
 # Como executar o projeto
 
